@@ -1,0 +1,15 @@
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\bin\Debug\net6.0\UsingVariablesConsole.exe
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\bin\Debug\net6.0\UsingVariablesConsole.deps.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\bin\Debug\net6.0\UsingVariablesConsole.runtimeconfig.json
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\bin\Debug\net6.0\UsingVariablesConsole.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\bin\Debug\net6.0\UsingVariablesConsole.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.csproj.AssemblyReference.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.AssemblyInfoInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.AssemblyInfo.cs
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.csproj.CoreCompileInputs.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\refint\UsingVariablesConsole.dll
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.pdb
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\UsingVariablesConsole.genruntimeconfig.cache
+C:\Users\jmlaw\OneDrive\Desktop\repos1\UsingVariables\UsingVariablesConsole\obj\Debug\net6.0\ref\UsingVariablesConsole.dll
